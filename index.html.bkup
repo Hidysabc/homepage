@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+
+</head>
+
+<body>
+
+<h1 style="text-align:center;"><b>Welcome to Hidy's ABC</h1>
+<a href="http://hidysabc.com/blog"><img draggable = "true"  src="http://hidysabc.com/blog/wp-content/uploads/2013/06/IMG_20130612_113311.jpg" width = "1340" height= "1024"></a>
+<br/>
+<p style="text-align:center;"> This is a blog about my life in NYC. I love sharing food, recipes, and small talks. Please click to the following link to learn more about me, 
+<a href="http://hidysabc.com/blog">
+Go to my Blog</a>
+<br/>
+</p>
+</body>
+</html>
+

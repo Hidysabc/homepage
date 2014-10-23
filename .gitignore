@@ -1,0 +1,12 @@
+blog/
+*.zip
+*.tgz
+.htaccess*
+cgi-bin/
+*.shtml
+*.php
+default.html
+bootstrap*
+google*
+favicon*
+php.ini
